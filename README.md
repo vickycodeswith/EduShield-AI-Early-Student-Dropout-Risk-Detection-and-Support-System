@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-readme = r"""# EduShield AI
+EduShield AI
 
 ## Early Student Dropout Risk Detection and Support System
 
