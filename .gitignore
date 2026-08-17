@@ -1,0 +1,14 @@
+cat > .gitignore <<'EOF'
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+.env
+.idea/
+.vscode/
+*.joblib
+*.pkl
+EOF
