@@ -13,7 +13,7 @@ EduShield AI
 
 Try the working application directly in your browser:
 
-**👉 [Launch EduShield AI]((https://edushield-ai-early-student-dropout-risk-detection-and-support.streamlit.app/))**
+**👉 [Launch EduShield AI](https://edushield-ai-early-student-dropout-risk-detection-and-support.streamlit.app)**
 
 
 ## Early Student Dropout Risk Detection and Support System
