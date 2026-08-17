@@ -7,6 +7,15 @@
 
 EduShield AI
 
+## 🚀 Live Demo
+
+### 🌐 https://edushield-ai-early-student-dropout-risk-detection-and-support.streamlit.app/
+
+Try the working application directly in your browser:
+
+**👉 [Launch EduShield AI]((https://edushield-ai-early-student-dropout-risk-detection-and-support.streamlit.app/))**
+
+
 ## Early Student Dropout Risk Detection and Support System
 
 EduShield AI is a machine-learning-based decision-support system designed to identify students who may be at risk of academic failure or dropping out at an early stage.
