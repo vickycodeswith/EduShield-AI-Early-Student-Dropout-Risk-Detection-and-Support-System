@@ -40,12 +40,11 @@ EduShield AI addresses this problem by providing an early-warning mechanism that
 9. Maintain a privacy-conscious and human-in-the-loop approach.
 
 ---
-
 ## Proposed Solution
 
 EduShield AI follows this general pipeline:
 
-```text
+
 Student Academic / Engagement Data
                 |
                 v
@@ -170,7 +169,6 @@ Follow these instructions to set up and run the project locally.
    ```bash
    streamlit run app.py
    ```
-   *(Replace `app.py` with the actual name of your Python script if it's different.)*
 
 2. **Open your web browser:**
    Navigate to `http://localhost:8501`. The application should now be running.
@@ -210,10 +208,6 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
